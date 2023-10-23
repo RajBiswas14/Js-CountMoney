@@ -1,0 +1,48 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: rgb(217, 135, 135);
+    font-size: 150%;
+    font-weight:bold;
+}
+
+
+p{
+    text-align: left;
+    background-color: rgb(71, 20, 1);
+    font-size: 150%;
+    color: rgb(11, 175, 14);
+}
+
+
+.heading{
+    color:rgb(11, 175, 14);
+}
+
+
+.add{
+    background-color: rgb(10, 74, 147);
+    font-size: 100%;
+    color: rgb(11, 175, 14);
+    margin: 20px;
+    padding: 10px;
+   
+}
+
+
+.subtract{
+    background-color: red;
+    font-size: 100%;
+    color: rgb(11, 175, 14);
+    margin: 20px;
+    padding: 10px;
+}
+
+
+.totalAmount{
+    background-color: rgb(201, 39, 39);
+    font-size: 150%;
+    color: rgb(11, 175, 14);
+    margin: 75px;
+    padding: 10px;
+}
